@@ -22,3 +22,5 @@ stopBtn.addEventListener('click', () => {
   startBtn.disabled = false;
   clearInterval(intervalTimer);
 });
+
+// update
